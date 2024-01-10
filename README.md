@@ -157,9 +157,13 @@ https://github.com/FabrizioLeopardi/Assignment2ExpSecond2/assets/104570450/39ebd
 
   
 
-****switch behavior:****
+****switch behavior from goto_waypoint to searchfor_marker:****
 
   
+
+
+https://github.com/FabrizioLeopardi/Assignment2ExpSecond2/assets/104570450/a3c1ca80-f4f3-4ca4-83e0-4998d63d5fef
+
 
 
   
